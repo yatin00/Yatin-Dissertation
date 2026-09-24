@@ -1,0 +1,4 @@
+Model,Parameters
+Logistic Regression,"C=1.0, class_weight=balanced, max_iter=1000"
+Multinomial Naive Bayes,alpha=1.0
+Linear SVM,"C=1.0, class_weight=balanced"

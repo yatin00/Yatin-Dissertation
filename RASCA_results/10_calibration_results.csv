@@ -1,0 +1,3 @@
+Model,Type,Brier_Score,ECE
+Logistic Regression,Uncalibrated,0.12590808021463795,0.017192573476752418
+Logistic Regression,Calibrated,0.12624981597731197,0.01062471082036918
